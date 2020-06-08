@@ -1,4 +1,4 @@
-# PSoC 6 MCU: Super Smart Home "PSoC6 Node" appication
+# PSoC 6 MCU: Super Smart Home "PSoC6 Node" application
 
 ## Supported Kit
 
